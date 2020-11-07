@@ -1,4 +1,4 @@
-# DALI
+# DALI exmaple and discusse 
 https://docs.nvidia.com/deeplearning/dali/user-guide/docs/examples/frameworks/tensorflow/tensorflow-plugin-sparse-tensor.html 
 1、setup 
    see above  doc ，recommend  use  pip install  DALI and DALI_tf  for tensorflow 
